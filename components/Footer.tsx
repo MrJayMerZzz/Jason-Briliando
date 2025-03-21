@@ -6,15 +6,11 @@ export default function Footer() {
     <footer className="bg-white text-gray-800 p-4 mt-auto">
       <div className="container mx-auto text-center">
         <div className="flex justify-center space-x-4 mb-4">
-          <Link href="https://www.instagram.com/jas_brill/" target="_blank" rel="noopener noreferrer">
+          <Link href="https://www.instagram.com/brilliantdo.architect/" target="_blank" rel="noopener noreferrer">
             <Image src="/icons/instagram.png" alt="Instagram" width={24} height={24} className="hover:opacity-75" />
             <span className="sr-only">Instagram</span>
           </Link>
-          <Link href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-            <Image src="/icons/linkedin.png" alt="LinkedIn" width={24} height={24} className="hover:opacity-75" />
-            <span className="sr-only">LinkedIn</span>
-          </Link>
-          <Link href="mailto:jasonbrilliando.architecture@gmail.com" target="_blank" rel="noopener noreferrer">
+          <Link href="mailto:brilliantdo.architect@gmail.com" target="_blank" rel="noopener noreferrer">
             <Image src="/icons/mail.png" alt="Mail" width={24} height={24} className="hover:opacity-75" />
             <span className="sr-only">Mail</span>
           </Link>

@@ -39,14 +39,13 @@ const Contact: React.FC = () => {
         {/* Right - Office Info */}
         <div className="md:w-1/2 w-full p-4 bg-gray-100 rounded-lg text-black">
           <h3 className="text-xl font-bold mb-2">Our Office</h3>
-          <p className="font-sans font-extralight tracking-wide">PT. Jason the Boss</p>
           <p><strong>Location:</strong> Kemayoran, Jakarta Pusat</p>
           <p><strong>Working Hours:</strong> 9AM - 3PM, Mon to Fri</p>
           <div className="mt-4">
             <p><strong>Contact:</strong></p>
             <p>📞 WhatsApp: +62 815 9788 788</p>
-            <p>📧 Email: briliantdo.architect@gmail.com</p>
-            <p>📸 Instagram: briliantdo.architect</p>
+            <p>📧 Email: brilliantdo.architect@gmail.com</p>
+            <p>📸 Instagram: brilliantdo.architect</p>
           </div>
         </div>
       </div>
